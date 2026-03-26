@@ -1,7 +1,6 @@
-package timus.task_1638;
+package lr1.timus.task_1638;
 
 import java.util.*;
-import java.io.*;
 
 public class Main {
     public static void main(String[] args) throws Exception {

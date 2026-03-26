@@ -1,4 +1,4 @@
-package timus.task_1409;
+package lr1.timus.task_1000;
 
 import java.util.Scanner;
 
@@ -9,7 +9,7 @@ public class Main {
         int a = scanner.nextInt();
         int b = scanner.nextInt();
 
-        System.out.println((b - 1) + " " + (a - 1));
+        System.out.println(a + b);
 
         scanner.close();
     }
