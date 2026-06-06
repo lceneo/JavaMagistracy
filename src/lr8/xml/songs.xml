@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<songs>
+    <song>
+        <title>Bohemian Rhapsody</title>
+        <artist>Queen</artist>
+        <year>1975</year>
+        <genre>Rock</genre>
+    </song>
+    <song>
+        <title>Billie Jean</title>
+        <artist>Michael Jackson</artist>
+        <year>1982</year>
+        <genre>Pop</genre>
+    </song>
+    <song>
+        <title>Smells Like Teen Spirit</title>
+        <artist>Nirvana</artist>
+        <year>1991</year>
+        <genre>Grunge</genre>
+    </song>
+</songs>
